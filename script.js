@@ -4,7 +4,7 @@ function enviar() {
 
     Swal.fire({
         title: "Parabéns!",
-        text: "Você se cadastrou com sucesso!",
+        text: "Dados enviados com sucesso!",
         icon: "success"
       });
 }
